@@ -1,6 +1,7 @@
 # qb-garages-redesign
 - Vehicle insurance system with an amount of 10% of the sales price of all vehicles defined in qb-core!
 - New QBCore
+- If you would like to have a custom garage config prepared -> **[Discord](https://discord.gg/mert)**
 
 # Showcase (tr)
 ![image](https://github.com/user-attachments/assets/fdb30d17-f62a-42a2-8061-9a28ca4ef4a2)
@@ -28,3 +29,5 @@
 ```
 ensure qb-garages
 ```
+
+Thanks to **[Nexus Dev](https://github.com/Nexus-Fivem)**.
